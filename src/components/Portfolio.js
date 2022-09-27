@@ -36,9 +36,7 @@ export default class Porfolio extends Component {
                     </CardContent>
                   </CardActionArea>
                   <CardActions>
-                    <Button size="small" color="primary">
-                      Share
-                    </Button>
+                    <a href={item.link}>Share</a>
                   </CardActions>
                 </Card>  
               )
