@@ -25,7 +25,7 @@ let resumeData = {
         "specialization":"",
         "MonthOfPassing":"May",
         "YearOfPassing":"2023",
-        "Achievements":"Many"
+        "Achievements":"Courses: AP CSA, AP Calculus, Honors Physics, Honors Chemistry"
       },
     ],
     "skillsDescription":"Here are some of my skills:",
