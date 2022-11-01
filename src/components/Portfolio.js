@@ -36,7 +36,7 @@ export default class Porfolio extends Component {
                     </CardContent>
                   </CardActionArea>
                   <CardActions>
-                    <a href={item.link}>Share</a>
+                    <a href={item.link}>Github</a>
                   </CardActions>
                 </Card>  
               )

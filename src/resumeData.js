@@ -23,12 +23,19 @@ let resumeData = {
       {
         "UniversityName":"Clayton High School",
         "specialization":"",
-        "MonthOfPassing":"May",
+        "MonthOfPassing":"Graduating May",
         "YearOfPassing":"2023",
-        "Achievements":"Courses: AP CSA, AP Calculus, Honors Physics, Honors Chemistry"
+        "Courses": ['AP CSA', 'AP Calculus', 'Honors Physics', 'Honors Chemistry']
       },
+      {
+        "UniversityName":"The Coding School",
+        "specialization":"",
+        "MonthOfPassing":"Still Attending",
+        "YearOfPassing":"",
+        "Courses":["Fundamentals of Computer Science: Introductory course taught in Python where we dove into syntax, object oriented programming, data structures, recursion, algorithms, and logical analysis. Built an end of the unit project demonstrating all of these.", "Advanced Computer Science: Advanced course with a deep dive on data structures, particularly tries, trees, hash maps, graph theory, heaps, and complexity analysis. This was a project based course, where I built a variety of small projects ranging from a maze generator, a hospital scheduler, and Sudoku generator.", "Artificial Intelligence: Python based course where we dove into details of Machine Learning, including topics such as Bayesian Networks, SVM’s, Decision Trees, and Deep Learning."]
+      }
     ],
-    "skillsDescription":"Here are some of my skills:",
+    "skillsDescription":"Here are some of my stronger languages:",
     "skills":[
       {
         "skillname":"Python"
